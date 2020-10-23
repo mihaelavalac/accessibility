@@ -1,8 +1,6 @@
 ## accessibility
-<<<<<<< HEAD
-=======
+
 The main contribution to this project was the changes that I made in ordrer to improve the accessibility of the webside. The entire content was mase with div elements, therefor I introduced elements such: head, section, main, aside, and footer.
->>>>>>> b8f5c79a2903256e9419c5990275d3ac9f206ffa
 
 ## contribution
 The main contribution to this project was the changes that I made in ordrer to improve the accessibility of the webside. The entire content was mase with <div> elements, therefor I introduced elements such: <head> <section> <main> <aside> and <footer>.
