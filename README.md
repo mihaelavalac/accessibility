@@ -1,8 +1,11 @@
 ## accessibility
-The main contribution to this project was the changes that I made in ordrer to improve the accessibility of the webside. The entire content was mase with <div> elements, therefor I introduced elements such: <head> <section> <main> <aside> and <footer>.
 
+## contribution
+The main contribution to this project was the changes that I made in ordrer to improve the accessibility of the webside. The entire content was mase with <div> elements, therefor I introduced elements such: <head> <section> <main> <aside> and <footer>.
+## level of dificulty
 Sice I am in the very beginning of my web developer career, I found this entire project difficult. In order to do it I did a lot of research on the topic of web accessibility. 
 
+## Page layout
 I devided the page in header, main, asside, and footer.
 The header inform the user that there is the name of the page "Horiseon" and 3 links in the right top corner which after accessing them, the user go in the main content on the page and find there more details about the respective link. 
 
